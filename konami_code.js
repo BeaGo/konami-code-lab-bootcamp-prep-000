@@ -24,7 +24,7 @@ function init() {
       }
     
     if (index === codes.length) {
-      window.alert("Hurray!");
+      window.alert("Congratulations!!");
       index = 0
     }
   });
