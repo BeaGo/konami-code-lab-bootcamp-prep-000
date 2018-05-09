@@ -18,7 +18,7 @@ function init() {
     const key = e.key
     
     if (codes[index] === key) {
-      ++index;
+      index++;
       } else {
         index = 0
       }
